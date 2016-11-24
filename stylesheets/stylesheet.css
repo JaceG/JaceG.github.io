@@ -10,5 +10,6 @@ body {
   color: #606c71; }
 
 form {
+	width: 300px;
 	margin: 0 auto;
 }
