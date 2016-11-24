@@ -9,7 +9,12 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
-form {
-	padding: middle;
-	margin: center;
+#parent {
+   display: table;
+   width: 100%;
+}
+#stripe_button {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
 }
