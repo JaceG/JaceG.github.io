@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box; }
 
-body .center {
+body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -243,3 +243,7 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.stripe-button (
+	margin: auto;
+}
