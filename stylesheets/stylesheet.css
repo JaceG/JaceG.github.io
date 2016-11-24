@@ -9,12 +9,14 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
-#parent {
-   display: table;
-   width: 100%;
+html,body {
+  height:100%;
+  width:100%;
+  margin:0;
 }
-#stripe_button {
-   display: table-cell;
-   text-align: center;
-   vertical-align: middle;
+body {
+  display:flex;
+}
+form {
+  margin:auto;
 }
